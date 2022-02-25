@@ -1,14 +1,50 @@
 ![Logo](./src/images/dont-be-undefined-logo.svg)
 
-# Awesome profile cards - Proyecto Módulo 2
+# Don't be undefined - Profile cards
 
 ¡Hola! Este es nuestro proyecto final para el módulo 2 del bootcamp de programación front-end de Adalab en el que hemos puesto en práctica los conocimientos adquiridos durante el segundo módulo, centrado en JavaScript. Partiendo de un diseño dado en Zeplin y siguiendo la filosofía Agile hemos trabajado en equipo, construyendo una web en la que podréis crear tarjetas de visita personalizadas en formato online. Introduciendo vuestros datos profesionales obtendréis una vista maquetada de esa información y la podréis compartir, por ejemplo, en twitter.
 
 ### ¿Dónde verlo?
 
-[GitHub Pages](http://beta.adalab.es/project-promo-o-module-2-team-6/)
+[Don't be undefined](https://paulaepr.github.io/dont-be-undefined)
 
-### Equipo de desarollo
+![Mockup Desktop Version](./src/images/readme/preview.jpg)
+
+---
+## Instalación y configuración
+
+**Requerimientos:** Necesitas tener `node` y `npm` instalados.
+
+### Clonar el repositorio
+
+```
+git clone URL
+```
+
+### Instalar las dependencias
+
+```
+npm install
+```
+
+### Ejecutar la aplicación
+
+```
+npm start
+```
+
+Ve a [http://localhost:3000](http://localhost:3000) para ver la app en el navegador.
+
+### Desplegar el entorno de producción
+
+```
+npm run deploy
+```
+---
+
+## Javascript: Proyecto en equipo
+
+### Equipo de desarrollo
 
 [![Autor](https://img.shields.io/badge/github-Esther%20Fernández-yellow?style=for-the-badge&logo=github)](https://github.com/GitTher)
 
